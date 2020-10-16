@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+ background-color:lightslategrey; color: lightgrey;
+}
+h1 {
+   text-align:center;	
+}
+a{
+  text-decoration: none;
+}
+#firstp {
+ color: rosybrown;
+	line-height: 1.8;
+}
+#secondp {
+	color: antiquewhite;
+}
+p{
+  font-family: "Times New Roman", Times, serif;
+}
+.blue {
+	color:thistle;
+}
+.red {
+	color:sandybrown;
+}
